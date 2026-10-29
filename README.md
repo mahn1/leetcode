@@ -9,10 +9,11 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **5** (Easy 5 · Medium 0 · Hard 0)
+Решено: **6** (Easy 5 · Medium 1 · Hard 0)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [Python](problems/0002-add-two-numbers/solution.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [Python](problems/0014-longest-common-prefix/solution.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [Python](problems/0020-valid-parentheses/solution.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Python](problems/0021-merge-two-sorted-lists/solution.py) |
