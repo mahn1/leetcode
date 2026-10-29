@@ -9,8 +9,9 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **0** (Easy 0 · Medium 0 · Hard 0)
+Решено: **1** (Easy 1 · Medium 0 · Hard 0)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [Python](problems/0014-longest-common-prefix/solution.py) |
 <!-- TABLE:END -->
