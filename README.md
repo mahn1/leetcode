@@ -9,12 +9,13 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **7** (Easy 5 · Medium 2 · Hard 0)
+Решено: **8** (Easy 5 · Medium 2 · Hard 1)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [Python](problems/0002-add-two-numbers/solution.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window, Hash Table | [Python](problems/0003-longest-substring-without-repeating-characters/solution.py) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search | [Python](problems/0004-median-of-two-sorted-arrays/solution.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [Python](problems/0014-longest-common-prefix/solution.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [Python](problems/0020-valid-parentheses/solution.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Python](problems/0021-merge-two-sorted-lists/solution.py) |
