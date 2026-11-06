@@ -9,7 +9,7 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **15** (Easy 7 · Medium 7 · Hard 1)
+Решено: **16** (Easy 7 · Medium 8 · Hard 1)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
@@ -27,5 +27,6 @@
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium | Game Theory, Math | [Python](problems/1927-sum-game/solution.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium | Design, Lazy Flag | [Python](problems/2166-design-bitset/solution.py) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | Sliding Window, Sorting | [Python](problems/2747-count-zero-request-servers/solution.py) |
+| 3319 | [K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium | Tree, DFS, Sorting | [Python](problems/3319-k-th-largest-perfect-subtree-size-in-binary-tree/solution.py) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | Hash Table | [Python](problems/3718-smallest-missing-multiple-of-k/solution.py) |
 <!-- TABLE:END -->
