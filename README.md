@@ -9,7 +9,7 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **16** (Easy 7 · Medium 8 · Hard 1)
+Решено: **17** (Easy 7 · Medium 9 · Hard 1)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
@@ -24,6 +24,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Two Pointers | [Python](problems/0026-remove-duplicates-from-sorted-array/solution.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String Matching (KMP) | [Python](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | Array | [Python](problems/1464-maximum-product-of-two-elements-in-an-array/solution.py) |
+| 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | Recursion, Divide and Conquer | [Python](problems/1545-find-kth-bit-in-nth-binary-string/solution.py) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium | Game Theory, Math | [Python](problems/1927-sum-game/solution.py) |
 | 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | Medium | Design, Lazy Flag | [Python](problems/2166-design-bitset/solution.py) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | Sliding Window, Sorting | [Python](problems/2747-count-zero-request-servers/solution.py) |
