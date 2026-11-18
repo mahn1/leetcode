@@ -9,7 +9,7 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **17** (Easy 7 · Medium 9 · Hard 1)
+Решено: **18** (Easy 8 · Medium 9 · Hard 1)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
@@ -23,6 +23,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Python](problems/0021-merge-two-sorted-lists/solution.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Two Pointers | [Python](problems/0026-remove-duplicates-from-sorted-array/solution.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String Matching (KMP) | [Python](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hash Table | [Python](problems/0217-contains-duplicate/solution.py) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | Array | [Python](problems/1464-maximum-product-of-two-elements-in-an-array/solution.py) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | Recursion, Divide and Conquer | [Python](problems/1545-find-kth-bit-in-nth-binary-string/solution.py) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium | Game Theory, Math | [Python](problems/1927-sum-game/solution.py) |
