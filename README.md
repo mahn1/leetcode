@@ -9,20 +9,23 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **18** (Easy 8 · Medium 9 · Hard 1)
+Решено: **21** (Easy 10 · Medium 10 · Hard 1)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Hash Table | [Python](problems/0001-two-sum/solution.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math | [Python](problems/0002-add-two-numbers/solution.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window, Hash Table | [Python](problems/0003-longest-substring-without-repeating-characters/solution.py) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search | [Python](problems/0004-median-of-two-sorted-arrays/solution.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String | [Python](problems/0005-longest-palindromic-substring/solution.py) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String, Simulation | [Python](problems/0006-zigzag-conversion/solution.py) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers, Greedy | [Python](problems/0011-container-with-most-water/solution.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [Python](problems/0014-longest-common-prefix/solution.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [Python](problems/0020-valid-parentheses/solution.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Python](problems/0021-merge-two-sorted-lists/solution.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Two Pointers | [Python](problems/0026-remove-duplicates-from-sorted-array/solution.py) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String Matching (KMP) | [Python](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Greedy | [Python](problems/0121-best-time-to-buy-and-sell-stock/solution.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hash Table | [Python](problems/0217-contains-duplicate/solution.py) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | Array | [Python](problems/1464-maximum-product-of-two-elements-in-an-array/solution.py) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | Recursion, Divide and Conquer | [Python](problems/1545-find-kth-bit-in-nth-binary-string/solution.py) |
