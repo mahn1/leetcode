@@ -9,7 +9,7 @@
 Таблица ниже собирается скриптом `python tools/update_readme.py`.
 
 <!-- TABLE:START -->
-Решено: **21** (Easy 10 · Medium 10 · Hard 1)
+Решено: **22** (Easy 11 · Medium 10 · Hard 1)
 
 | # | Задача | Сложность | Тема | Решение |
 |---|--------|-----------|------|---------|
@@ -20,6 +20,7 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String | [Python](problems/0005-longest-palindromic-substring/solution.py) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String, Simulation | [Python](problems/0006-zigzag-conversion/solution.py) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers, Greedy | [Python](problems/0011-container-with-most-water/solution.py) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Hash Table, Math, String | [Python](problems/0013-roman-to-integer/solution.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | String | [Python](problems/0014-longest-common-prefix/solution.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [Python](problems/0020-valid-parentheses/solution.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [Python](problems/0021-merge-two-sorted-lists/solution.py) |
